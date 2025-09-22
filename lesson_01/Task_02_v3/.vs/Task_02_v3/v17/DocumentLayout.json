@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u043D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F_24\\\u0414\u0417_\u043F\u043E\u0442\u043E\u043A\u0438\\lesson_01\\Task_02_v3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA019203-82DA-4F38-B213-1C792DC4E15C}|Task_02_v3.vcxproj|D:\\\u043D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F_24\\\u0414\u0417_\u043F\u043E\u0442\u043E\u043A\u0438\\lesson_01\\Task_02_v3\\Task_02_v3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BA019203-82DA-4F38-B213-1C792DC4E15C}|Task_02_v3.vcxproj|solutionrelative:Task_02_v3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task_02_v3.cpp",
+              "DocumentMoniker": "D:\\\u043D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F_24\\\u0414\u0417_\u043F\u043E\u0442\u043E\u043A\u0438\\lesson_01\\Task_02_v3\\Task_02_v3.cpp",
+              "RelativeDocumentMoniker": "Task_02_v3.cpp",
+              "ToolTip": "D:\\\u043D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F_24\\\u0414\u0417_\u043F\u043E\u0442\u043E\u043A\u0438\\lesson_01\\Task_02_v3\\Task_02_v3.cpp",
+              "RelativeToolTip": "Task_02_v3.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-21T16:39:29.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
